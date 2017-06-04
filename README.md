@@ -8,7 +8,7 @@ The goals / steps of this project are the following:
 To make a pipeline that finds lane lines on the road
 
 
-## Result
+## Results
 ### White lane lines
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F8oXdZ8ZlWs/0.jpg)](https://www.youtube.com/watch?v=F8oXdZ8ZlWs)
 
