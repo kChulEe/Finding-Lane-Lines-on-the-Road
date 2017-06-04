@@ -7,9 +7,16 @@ The goals / steps of this project are the following:
 
 To make a pipeline that finds lane lines on the road
 
+
+## Result
+### White lane lines
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F8oXdZ8ZlWs/0.jpg)](https://www.youtube.com/watch?v=F8oXdZ8ZlWs)
+
+### Yellow lane lines
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/q7320Vj80rk/0.jpg)](https://www.youtube.com/watch?v=q7320Vj80rk)
+
+### Both white and yellow lane lines with uneven road condition
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2ULM1XtvJBc/0.jpg)](https://www.youtube.com/watch?v=2ULM1XtvJBc)
-
-
 
 #### My pipeline consists six steps: 1. Create image mask 2. Apply gaussian blur using adaptive thresholding 3. Apply canny edge detection 4. Define the region of interest 5. Apply hough line transform and create lines 6. Combine the created lane lines and the original image
 
